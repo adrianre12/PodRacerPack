@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Blueprints>
+    <Blueprint>
+      <Id>
+        <TypeId>BlueprintDefinition</TypeId>
+        <SubtypeId>PodRacerBlack</SubtypeId>
+      </Id>
+      <DisplayName>DisplayName_Item_ConstructionComponent</DisplayName>
+      <Icon>Textures\GUI\Prefabs\PodRacerBlack.dds</Icon>
+      <Prerequisites>
+        <Item Amount="8" TypeId="Ingot" SubtypeId="Iron" />
+      </Prerequisites>
+      <Result Amount="1" TypeId="Component" SubtypeId="PodRacerBlack" />
+      <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+      <IsPrimary>true</IsPrimary>
+    </Blueprint>
+	  <Blueprint>
+		  <Id>
+			  <TypeId>BlueprintDefinition</TypeId>
+			  <SubtypeId>PodRacerBlue</SubtypeId>
+		  </Id>
+		  <DisplayName>DisplayName_Item_ConstructionComponent</DisplayName>
+		  <Icon>Textures\GUI\Prefabs\PodRacerBlue.dds</Icon>
+		  <Prerequisites>
+			  <Item Amount="8" TypeId="Ingot" SubtypeId="Iron" />
+		  </Prerequisites>
+		  <Result Amount="1" TypeId="Component" SubtypeId="PodRacerBlue" />
+		  <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+		  <IsPrimary>true</IsPrimary>
+	  </Blueprint>
+	  <Blueprint>
+		  <Id>
+			  <TypeId>BlueprintDefinition</TypeId>
+			  <SubtypeId>PodRacerGreen</SubtypeId>
+		  </Id>
+		  <DisplayName>DisplayName_Item_ConstructionComponent</DisplayName>
+		  <Icon>Textures\GUI\Prefabs\PodRacerGreen.dds</Icon>
+		  <Prerequisites>
+			  <Item Amount="8" TypeId="Ingot" SubtypeId="Iron" />
+		  </Prerequisites>
+		  <Result Amount="1" TypeId="Component" SubtypeId="PodRacerGreen" />
+		  <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+		  <IsPrimary>true</IsPrimary>
+	  </Blueprint>
+	  <Blueprint>
+		  <Id>
+			  <TypeId>BlueprintDefinition</TypeId>
+			  <SubtypeId>PodRacerRed</SubtypeId>
+		  </Id>
+		  <DisplayName>DisplayName_Item_ConstructionComponent</DisplayName>
+		  <Icon>Textures\GUI\Prefabs\PodRacerRed.dds</Icon>
+		  <Prerequisites>
+			  <Item Amount="8" TypeId="Ingot" SubtypeId="Iron" />
+		  </Prerequisites>
+		  <Result Amount="1" TypeId="Component" SubtypeId="PodRacerRed" />
+		  <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+		  <IsPrimary>true</IsPrimary>
+	  </Blueprint>
+	  <Blueprint>
+		  <Id>
+			  <TypeId>BlueprintDefinition</TypeId>
+			  <SubtypeId>PodRacerWhite</SubtypeId>
+		  </Id>
+		  <DisplayName>DisplayName_Item_ConstructionComponent</DisplayName>
+		  <Icon>Textures\GUI\Prefabs\PodRacerWhite.dds</Icon>
+		  <Prerequisites>
+			  <Item Amount="8" TypeId="Ingot" SubtypeId="Iron" />
+		  </Prerequisites>
+		  <Result Amount="1" TypeId="Component" SubtypeId="PodRacerWhite" />
+		  <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+		  <IsPrimary>true</IsPrimary>
+	  </Blueprint>
+	  <Blueprint>
+		  <Id>
+			  <TypeId>BlueprintDefinition</TypeId>
+			  <SubtypeId>PodRacerYellow</SubtypeId>
+		  </Id>
+		  <DisplayName>DisplayName_Item_ConstructionComponent</DisplayName>
+		  <Icon>Textures\GUI\Prefabs\PodRacerYellow.dds</Icon>
+		  <Prerequisites>
+			  <Item Amount="8" TypeId="Ingot" SubtypeId="Iron" />
+		  </Prerequisites>
+		  <Result Amount="1" TypeId="Component" SubtypeId="PodRacerYellow" />
+		  <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+		  <IsPrimary>true</IsPrimary>
+	  </Blueprint>
+  </Blueprints>
+</Definitions>

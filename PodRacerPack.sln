@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PodRacerPack", "PodRacerPack.csproj", "{7BE1E2C2-4799-44D8-9DC5-555D6CE48276}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BE1E2C2-4799-44D8-9DC5-555D6CE48276}.Debug|x64.ActiveCfg = Debug|x64
+		{7BE1E2C2-4799-44D8-9DC5-555D6CE48276}.Debug|x64.Build.0 = Debug|x64
+		{7BE1E2C2-4799-44D8-9DC5-555D6CE48276}.Release|x64.ActiveCfg = Release|x64
+		{7BE1E2C2-4799-44D8-9DC5-555D6CE48276}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25F3FE86-4D6B-49BD-A8AC-2EB0697B4049}
+	EndGlobalSection
+EndGlobal
